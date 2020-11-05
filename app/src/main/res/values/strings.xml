@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">MT_vjezba2</string>
+    <string name="app_name">GitHub repozitoriji</string>
+
+    <string-array name="repo_names">
+        <item>Repo 1</item>
+        <item>Repo 2</item>
+        <item>Repo 3</item>
+        <item>Repo 4</item>
+        <item>Repo 5</item>
+    </string-array>
+
+    <string-array name="stars_number">
+        <item>60k stars</item>
+        <item>80k stars</item>
+        <item>110k stars</item>
+        <item>12k stars</item>
+        <item>100k stars</item>
+    </string-array>
+
 </resources>
